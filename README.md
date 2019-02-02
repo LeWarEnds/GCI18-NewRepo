@@ -1,2 +1,2 @@
 # GCI18-NewRepo
-New Repository for CORE.
+New Repository for SCORE.
